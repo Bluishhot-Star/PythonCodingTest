@@ -25,4 +25,3 @@ for i in range(case):
                 targetIdx = volume-1 #targetIdx 맨 뒤로
             else:
                 targetIdx -= 1 #targetIdx 앞당기기
-            
